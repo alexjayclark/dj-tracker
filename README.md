@@ -1,4 +1,4 @@
-# dj-tracker
+# Who's writing about data?
 A Django app for tracking whether British broadsheets are publishing data stories.
 
 The app uses the Twitter api to gather tweets from the timelines of The Telegraph as well as BBC News, The Guardian and The Times.
